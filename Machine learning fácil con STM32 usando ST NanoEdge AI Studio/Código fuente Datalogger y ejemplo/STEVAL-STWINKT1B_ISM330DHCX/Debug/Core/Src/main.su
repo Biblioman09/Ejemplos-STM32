@@ -1,0 +1,16 @@
+../Core/Src/main.c:133:5:main	64	static
+../Core/Src/main.c:245:6:SystemClock_Config	96	static
+../Core/Src/main.c:295:13:MX_SPI3_Init	8	static
+../Core/Src/main.c:335:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:383:13:MX_GPIO_Init	64	static
+../Core/Src/main.c:717:5:__io_putchar	24	static
+../Core/Src/main.c:730:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:749:16:platform_write	24	static
+../Core/Src/main.c:768:16:platform_read	24	static
+../Core/Src/main.c:786:13:ism330dhcx_initialize	8	static
+../Core/Src/main.c:809:13:ism330dhcx_initialize_basics	8	static
+../Core/Src/main.c:839:13:ism330dhcx_initialize_fifo	16	static
+../Core/Src/main.c:874:13:ism330dhcx_get_buffer_from_fifo	32	static
+../Core/Src/main.c:917:14:ism330dhcx_convert_gyro_data_to_mdps	24	static
+../Core/Src/main.c:958:14:ism330dhcx_convert_accel_data_to_mg	24	static
+../Core/Src/main.c:990:6:Error_Handler	4	static,ignoring_inline_asm

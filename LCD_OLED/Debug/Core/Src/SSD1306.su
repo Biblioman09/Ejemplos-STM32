@@ -1,0 +1,17 @@
+../Core/Src/SSD1306.c:15:23:width	4	static
+../Core/Src/SSD1306.c:18:23:height	4	static
+../Core/Src/SSD1306.c:23:6:ssd1306_Init	8	static
+../Core/Src/SSD1306.c:96:6:ssd1306_command	24	static
+../Core/Src/SSD1306.c:103:13:ssd1306_WriteData	24	static
+../Core/Src/SSD1306.c:111:6:ssd1306_SetCursor	16	static
+../Core/Src/SSD1306.c:119:6:ssd1306_UpdateScreen	24	static
+../Core/Src/SSD1306.c:137:6:ssd1306_WriteString	24	static
+../Core/Src/SSD1306.c:157:6:ssd1306_WriteChar	40	static
+../Core/Src/SSD1306.c:202:6:ssd1306_DrawPixel	40	static
+../Core/Src/SSD1306.c:233:6:ssd1306_Clear	8	static
+../Core/Src/SSD1306.c:240:6:HAL_I2C_MemTxCpltCallback	16	static
+../Core/Src/SSD1306.c:257:6:ssd1306_Fill	16	static
+../Core/Src/SSD1306.c:272:10:ssd1306_GetWidth	4	static
+../Core/Src/SSD1306.c:277:10:ssd1306_GetHeight	4	static
+../Core/Src/SSD1306.c:282:15:ssd1306_GetColor	4	static
+../Core/Src/SSD1306.c:287:6:ssd1306_SetColor	16	static
